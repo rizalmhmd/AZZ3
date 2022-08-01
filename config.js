@@ -8,7 +8,7 @@ global.APIs = {
 
 // Udah Free Apikey Jadi Klo Mau Ubah Silahkan
 global.APIKeys = {
-	'f9fccfcff1',
+	'https://zenzapis.xyz': 'f9fccfcff1',
 }
 
 // Other
