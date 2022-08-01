@@ -3,12 +3,12 @@ const chalk = require('chalk')
 
 // Website Api Nya Bng
 global.APIs = {
-	zenz: 'https://api.lolhuman.xyz',
+	zenz: 'https://zenzapis.xyz',
 }
 
 // Udah Free Apikey Jadi Klo Mau Ubah Silahkan
 global.APIKeys = {
-	'https://api.lolhuman.xyz': 'azzbot',
+	'https://zenzapis.xyz': 'f9fccfcff1',
 }
 
 // Other
